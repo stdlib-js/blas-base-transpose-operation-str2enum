@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f054659`](https://github.com/stdlib-js/stdlib/commit/f054659fb9a7cdc86e6b77031dac2243422881b5) - **docs:** fix parameter name _(by Athan Reines)_
 -   [`74bd47b`](https://github.com/stdlib-js/stdlib/commit/74bd47b73df622246480fb51a3f7a69a7bebb0c4) - **feat:** add `blas/base/transpose-operation-enum2str` and `blas/base/transpose-operation-str2enum` _(by Athan Reines)_
 
 </details>

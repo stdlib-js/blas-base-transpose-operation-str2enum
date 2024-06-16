@@ -73,7 +73,7 @@ To view installation and usage instructions specific to each branch build, be su
 var str2enum = require( '@stdlib/blas-base-transpose-operation-str2enum' );
 ```
 
-#### str2enum( layout )
+#### str2enum( operation )
 
 Return the enumeration constant associated with a BLAS transpose operation.
 
